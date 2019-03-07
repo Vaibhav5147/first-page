@@ -1,0 +1,5 @@
+Git Commands
+Part 1
+set user name an email
+git config --global user.name "your Name"
+git config --global user.email Your Email Addresh"
